@@ -1,13 +1,13 @@
 * {
   box-sizing: border-box;
-  background-color: #2a607c
+  background-color: rgb(14, 218, 92)
   padding:;
   margin:0;
   color: ;
 }
 
 body {
-  background-color:lightgrey;
+  background-color:rgb(150, 184, 171);
 }  
 
 header {
@@ -19,7 +19,7 @@ header {
 header h1 {
   display: inline-block;
   font-size: 48px;
-  background-color: #2a607c ; 
+  background-color: #2a7c4f ; 
 
 }
 
