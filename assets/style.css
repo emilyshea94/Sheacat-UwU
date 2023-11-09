@@ -66,8 +66,9 @@ p {
    .hero { 
     list-style:circle ;
     float:right ;
-  .column
-    width: 0.1em;
+    align-content: center;
+    .column
+    width: 1.0em;
     font-size: 400%;
     font-family: algerian, courier;
     line-height: 70%;
@@ -79,7 +80,7 @@ p {
     color: aquamarine;
 }
 .float-left {
-  float: left;
+  float: inline-start;
   margin-right: 25px;
 }
 
