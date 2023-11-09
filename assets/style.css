@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
   }
-  #main div {
+   h1 #main div {
     -ms-flex: 1; /* IE 10 */
     flex: 1;
   }
