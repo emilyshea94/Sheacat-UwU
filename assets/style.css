@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+  }
+  #main div {
+    -ms-flex: 1; /* IE 10 */
+    flex: 1;
+  }
+  
