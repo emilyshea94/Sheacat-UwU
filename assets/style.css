@@ -10,27 +10,8 @@ body {
   /*added my custom image to be he focus in the background*/
 
   /* Style for the round box */
-.round-box {
-  border-radius: 10px; /* Adjust this value to change the roundness */
-  background-color: #f0f0f0;
-  padding: 20px;
-  display: inline-block; /* To fit the content width */
-}
-/*Style for the text links*/
-.round-box a {
-  display: block;
-  margin-bottom: 10px; /* Spacing between links */
-  text-decoration: none;
-  color: #333;
-  transition: color 0.3s ease-in-out;
-}
-/* Hover effect for text links */
-.round-box a:hover {
-  color: #555;
-}
-  
 
-header {
+  header {
   padding:10px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color:white;   
@@ -58,11 +39,29 @@ header div {
   font-size: 10px;
 }
 
-ul {
+.left-box {
   list-style-type: none;
   padding: 40px;
   background-color: #7c482a;
   color: floralwhite;
+}
+.round-box {
+  border-radius: 10px; /* Adjust this value to change the roundness */
+  background-color: #f0f0f0;
+  padding: 20px;
+  display: inline-block; /* To fit the content width */
+}
+/*Style for the text links*/
+.round-box a {
+  display: block;
+  margin-bottom: 10px; /* Spacing between links */
+  text-decoration: none;
+  color: #333;
+  transition: color 0.3s ease-in-out;
+}
+/* Hover effect for text links */
+.round-box a:hover {
+  color: #555;
 }
 
 li {
